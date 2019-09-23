@@ -8,7 +8,7 @@ from dash.dependencies import Input, Output, State
 
 myheading1='How to use callbacks'
 tabtitle = 'Let's Have Fun'
-list_of_options=['puppy', 'kitty', 'git commit', 'scatterplot']
+list_of_options=['puppy', 'kitty', 'git commit', 'scatterplot','edit']
 list_of_images=['puppy.jpg', 'kitty.jpg', 'gitcommit.jpg', 'scatterplot.png', 'good_code.png']
 sourceurl = 'https://xkcd.com/'
 githublink = 'https://github.com/austinlasseter/dash-callbacks-radio'
